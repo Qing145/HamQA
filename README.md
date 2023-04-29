@@ -1,5 +1,5 @@
 # HamQA
-
+Pytorch-based implementation of HamQA, and the description of the model and the results can be found in the paper: "Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs".
 ## 1. Dependencies
 
 - [Python](<https://www.python.org/>) == 3.8
